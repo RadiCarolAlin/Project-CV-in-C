@@ -1,0 +1,22 @@
+PersonalData
+Name: Ion ;
+Surname: Pavelescu;
+Telephone:0754561234;
+Email:Pavelescu@yahoo.com;
+
+Diploma
+EducationType:Bachelor;
+Name: Universitatea Politehnica Timisoara;
+Profile:Mate-Info;
+StartYear:2000;
+EndYear:2006;
+
+Job
+CompanyName:Hella;
+StartYear:2008;
+EndYear:2015;
+Position:Softwere Developer;
+
+Languages:Romana,Francea,Engleza;
+
+Skill: invat repede,obictiv,imi place sportul;
